@@ -1,0 +1,1 @@
+Udacity challange Popular movies stage 1 In the MainActivityFragment class you need to place your own API key against the field String apiKeyValue = Your Api Key key you will get after sign up at the https://www.themoviedb.org/?_dc=1444722617 and for more instruction check https://docs.google.com/document/d/1ZlN1fUsCSKuInLECcJkslIqvpKlP7jWL2TP9m6UiA6I/pub?embedded=true.
